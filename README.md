@@ -8,7 +8,7 @@ Full-Stack Developer
 I am a web developer with deep knowledge in full-stack development. I have 2 years of experience in developing mid to large-scale websites and web applications based on web standard technologies like JavaScript, ReactJS , NextJS , MaterialUI , NodeJS , ExpressJS , MongoDB , and etc.
 
 * 🌍  I'm based in Tehran, Iran
-* ⚡  I love javascript and node.js
+* ⚡  I love javascript
 * ✉  [masoud.kh1988@gmail.com](mailto:masoud.kh1988@gmail.com)
 
 ### Skills
