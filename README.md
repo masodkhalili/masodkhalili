@@ -5,7 +5,19 @@
 Full-Stack Developer
 -------------------
 
-I am a web developer with deep knowledge in full-stack development. I have 2 years of experience in developing mid to large-scale websites and web applications based on web standard technologies like JavaScript, ReactJS , NextJS , MaterialUI , NodeJS , ExpressJS , MongoDB , and etc.
+Allow me to introduce myself as a full-stack developer with over 3 years of experience in the field. Throughout my career, I have honed my skills and gained a comprehensive understanding of various technologies and programming languages.
+
+As a full-stack developer, my expertise extends to both front-end and back-end development. On the front-end, I am proficient in HTML, CSS, and JavaScript, and I have a strong command of popular frameworks such as ReactJs and NextJs. I have a keen eye for user interface design and strive to create intuitive and visually appealing interfaces that enhance the user experience.
+
+On the back-end, I have worked extensively with server-side technologies such as Node.js . I am skilled in designing and developing RESTful APIs, managing databases (including SQL and NoSQL databases), and implementing robust server-side logic. I am also experienced in working with framework like Express.js.
+
+In addition to my technical skills, I possess a strong problem-solving ability and can efficiently debug and resolve complex issues. I am familiar with version control systems like Git .
+
+Moreover, I am constantly learning and staying up-to-date with the latest industry trends and best practices. This allows me to incorporate cutting-edge technologies and techniques into my work, ensuring that I deliver high-quality and future-proof solutions.
+
+I am a highly motivated and detail-oriented professional, committed to delivering projects on time and exceeding client expectations. I am an effective communicator and enjoy collaborating with cross-functional teams to achieve project goals.
+
+In summary, my experience as a full-stack developer, combined with my technical skills, problem-solving abilities, and passion for learning, make me a valuable asset in the field of software development. I am confident in my ability to contribute to the success of any project or organization I am a part of.
 
 * 🌍  I'm based in Tehran, Iran
 * ⚡  I love javascript
